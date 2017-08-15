@@ -1,0 +1,6 @@
+C:\Users\xianrun.qu\My_gist\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\xianrun.qu\My_gist\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\xianrun.qu\My_gist\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\xianrun.qu\My_gist\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Users\xianrun.qu\My_gist\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\xianrun.qu\My_gist\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
